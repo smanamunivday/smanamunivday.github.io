@@ -1,7 +1,7 @@
 # Site
-name: "Smanam Univday 2020"
-title: "Smanam Univday 2020"
-description: "Official Website of University Day SMA Negeri 6 Cirebon"
+name: "Smanam Univday"
+title: "Smanam Univday"
+description: "Official Website of University Day 2020 SMA Negeri 6 Cirebon"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: /
