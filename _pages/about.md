@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Tentang Kami
 permalink: /about
-comments: true
+comments: false
 ---
